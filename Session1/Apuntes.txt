@@ -1,0 +1,9 @@
+Que es TypeScript.
+Toma la mayor parte de JS. un Set de JS.
+
+-- Mejor tipado.
+Usamos typescrip en angular, por los decoradores. (De manera uniforme).
+
+
+** Mitos y realidades
+Angular, es bien estricto en crear, agrupar los componentes.
